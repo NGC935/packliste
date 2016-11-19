@@ -1,6 +1,6 @@
 Sorry, guys, only in German :-(
 
-# Pakliste
+# Packliste
 
 Diese LyX-Datei soll alle wichtigen Dinge einer Reise auflisten. Einfach Ausdrucken, auf die eigene Reise anpassen und nichts vergessen.
 
